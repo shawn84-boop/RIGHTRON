@@ -1,0 +1,1 @@
+export default function Tool(){return <div>Ticket Drop Tool Works!</div>}
